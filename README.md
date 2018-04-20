@@ -11,3 +11,5 @@ Etain’s Project 2018 - 52167 - Programming and Scripting
 *	Markdown Wikipedia (https://en.wikipedia.org/wiki/Markdown)
 *	Mastering Markdown (https://guides.github.com/features/mastering-markdown/)
 *	Python Website (https://www.python.org/)
+*	The Old Farmer’s Almanac https://www.almanac.com/plant/irises
+*	The Python Tutorial https://docs.python.org/3/tutorial/
