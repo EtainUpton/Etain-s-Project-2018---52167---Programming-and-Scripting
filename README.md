@@ -3,7 +3,7 @@ Etain’s Project 2018 - 52167 - Programming and Scripting
 
 # Research on the subject of Fisher’s Iris data set
 This project is based on Fisher’s Iris data set. In this document I intend to lay out a summary of my findings from my research on background information about this topic.
-According to Wikipedia (https://en.wikipedia.org/wiki/Iris_flower_data_set) the data set is composed of 50 samples from 3 species of Iris, which is a flower. 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) the data set is composed of 50 samples from 3 species of Iris, which is a flower. 
 
 ![Image of an Iris Flower](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg)
 
@@ -19,14 +19,14 @@ As per Wikipedia, the dataset contains a set of 150 records under 5 attributes;
 4.	Sepal Width and 
 5.	Class.
 
-According to ‘Case Study: IRIS Classification’ (http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html) the data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
+According to [‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html) the data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
 Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. The fifth column is the species of the flower observed. 
 
-Although familiar with what a petal was, I was unsure what exactly a sepal was, so I conducted some research into this. A sepal is a leaf-shaped structure found in flowering plants. It is found on the outermost part of the flower, and like a petal, a sepal is considered to be a modified leaf. (Biology Dictionary - https://biologydictionary.net/sepal/). 
+Although familiar with what a petal was, I was unsure what exactly a sepal was, so I conducted some research into this. A sepal is a leaf-shaped structure found in flowering plants. It is found on the outermost part of the flower, and like a petal, a sepal is considered to be a modified leaf. ([Biology Dictionary](https://biologydictionary.net/sepal/)). 
 
-Fisher’s Iris data set proved significant, as it became a typical test case for many statistical classification techniques in machine learning (https://en.wikipedia.org/wiki/Iris_flower_data_set). It is a very famous and widely used dataset by everyone trying to learn machine learning and statistics (‘Case Study: IRIS Classification’).
+Fisher’s Iris data set proved significant, as it became a typical test case for many statistical classification techniques in machine learning (https://en.wikipedia.org/wiki/Iris_flower_data_set). It is a very famous and widely used dataset by everyone trying to learn machine learning and statistics ([‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html)).
 
-Machine learning is a field of computer science which uses statistical techniques to give computer systems the ability to ‘learn’ with data, without being explicitly programmed (Wikipedia – Machine Learning - https://en.wikipedia.org/wiki/Machine_learning).
+Machine learning is a field of computer science which uses statistical techniques to give computer systems the ability to ‘learn’ with data, without being explicitly programmed ([Wikipedia – Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)).
 
 Fisher’s Iris data set itself is as follows;
 
