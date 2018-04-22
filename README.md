@@ -5,8 +5,7 @@ Etain’s Project 2018 - 52167 - Programming and Scripting
 This project is based on Fisher’s Iris data set. In this document I intend to lay out a summary of my findings from my research on background information about this topic.
 According to Wikipedia (https://en.wikipedia.org/wiki/Iris_flower_data_set) the data set is composed of 50 samples from 3 species of Iris, which is a flower. 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.google.ie/search?rlz=1C1GGRV_enIE784IE784&biw=1536&bih=734&tbm=isch&sa=1&ei=S53cWpHjKYP2gQanlLSIDQ&q=iris+flower&oq=iris+flower&gs_l=psy-ab.3..0j0i67k1j0j0i67k1j0l3j0i67k1j0l2.94051.95717.0.96212.9.6.1.2.2.0.90.413.6.6.0....0...1c.1.64.psy-ab..0.9.431...0i13k1.0.eLvFIKShPlU#imgrc=euy_BasfNzVYwM:)
+![Image of an Iris Flower](https://goo.gl/images/3LPvZe)
 
 Four features were measured on each sample - the length and the width of the sepals and petals, which were measured in centimetres. 
 Based on the combination of these four features, Ronald Fisher (a British statistician and biologist) developed a linear discriminant model to identify and distinguish the species from each other.
