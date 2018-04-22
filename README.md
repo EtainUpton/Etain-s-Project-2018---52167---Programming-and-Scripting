@@ -2,12 +2,12 @@
 Etain’s Project 2018 - 52167 - Programming and Scripting
 
 # Research on the subject of Fisher’s Iris data set
-This project is based on Fisher’s Iris data set. In this document I intend to lay out a summary of my findings from my research on background information about this topic.
+This project is based on Fisher’s Iris data set. In this document I intend to lay out a summary of my findings based on my research on background information about this topic.
 According to [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) the data set is composed of 50 samples from 3 species of Iris, which is a flower. 
 
 ![Image of an Iris Flower](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg)
 
-Four features were measured on each sample - the length and the width of the sepals and petals, which were measured in centimetres. 
+Four features of the flower were measured on each sample - the length and the width of the sepals and petals, which were measured in centimetres. 
 Based on the combination of these four features, Ronald Fisher (a British statistician and biologist) developed a linear discriminant model to identify and distinguish the species from each other.
 
 ![Image of Robert Fischer](https://upload.wikimedia.org/wikipedia/commons/4/46/R._A._Fischer.jpg)
@@ -331,6 +331,27 @@ Fisher’s Iris data set itself is as follows;
 5.9	3	5.1	1.8	Iris-virginica
 
 It was my intention to assess the results in Python, and then investigate how to display this information in a more visually appealing way to an audience. 
+
+I used ___________to complete this graph. This may be more digestible to an audience who is unfamiliar with Python, and I personally think it simplifies the information.
+
+I watched the ‘Project 2018 overview’ video supplied on Moodle by Dr Ian McLoughlin which gave me some good pointers and a starting point for this project.
+
+Explain to the reader of the project how Data Analytics can be useful in this regard, and how Python is a good tool for this purpose. (Sell Python to them).
+
+Discuss the route other researchers have taken when investigating this dataset and my own opinions on this.
+
+I researched how to correctly upload information to a README as I want to submit my research and findings in text format.
+
+I realised while watching the ‘READMEs’ video supplied by Dr Ian McLoughlin on Moodle that I had forgotten to include a gitignore in my repository for this project. However, I had already submitted the Project URL via Moodle, so I could not amend this.
+
+I realised while researching READMEs for this project that I had incorrectly submitted my previous repositories while completing the weekly exercises – I know for one README I inserted a Microsoft Word Document.
+
+While researching READMEs I wondered how I would upload an image (e.g. a chart) to GitHub.
+I learned this from https://guides.github.com/features/mastering-markdown/ and have included some in this README.
+I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
+
+When we download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/datasets/Iris originally, the data set looks like this;
+
 
 # List of References;
 *	Wikipedia - (https://en.wikipedia.org/wiki/Iris_flower_data_set)
