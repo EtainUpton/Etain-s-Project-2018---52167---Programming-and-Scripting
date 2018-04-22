@@ -370,3 +370,4 @@ I wondered what a ‘source code editor’ was, which I also researched on [Wiki
 *	Python Website (https://www.python.org/)
 *	The Old Farmer’s Almanac https://www.almanac.com/plant/irises
 *	The Python Tutorial https://docs.python.org/3/tutorial/
+* Visual Studio Code https://code.visualstudio.com/
