@@ -356,6 +356,8 @@ When we download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/da
 
 I used [Visual Studio Code](https://code.visualstudio.com/) to run Python. Prior to commencing this module I had never heard of Visual Studio Code, so I conducted some research on it. According to [Wikipedia]( https://en.wikipedia.org/wiki/Visual_Studio_Code); Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is also customizable, so users can change the editor's theme, keyboard shortcuts, and preferences. It is free and open-source, although the official download is under a proprietary license.
 
+I wondered what a ‘source code editor’ was, which I also researched on [Wikipedia]( https://en.wikipedia.org/wiki/Source_code_editor); A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
+
 # List of References;
 *	Wikipedia - (https://en.wikipedia.org/wiki/Iris_flower_data_set)
 *	Biology Dictionary (https://biologydictionary.net/sepal/)
