@@ -7,9 +7,11 @@ According to Wikipedia (https://en.wikipedia.org/wiki/Iris_flower_data_set) the 
 
 ![Image of an Iris Flower](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg)
 
-
 Four features were measured on each sample - the length and the width of the sepals and petals, which were measured in centimetres. 
 Based on the combination of these four features, Ronald Fisher (a British statistician and biologist) developed a linear discriminant model to identify and distinguish the species from each other.
+
+![Image of Robert Fischer](https://en.wikipedia.org/wiki/Ronald_Fisher#/media/File:R._A._Fischer.jpg)
+
 As per Wikipedia, the dataset contains a set of 150 records under 5 attributes;
 1.	Petal Length, 
 2.	Petal Width, 
