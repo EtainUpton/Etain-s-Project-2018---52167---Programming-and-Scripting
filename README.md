@@ -352,6 +352,41 @@ I also learned that it is possible to hyperlink [Python]( https://www.python.org
 
 When we download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/datasets/Iris originally, the data set looks like this;
 
+We can see from this snippet that there is no separation between each measurement, there is simply a comma between each different measurement. Additionally there are no headings. When the code I have written in Python is run, the various measurements are separated based on which
+Of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class).
+as opposed to being separated by commas alone. 
+Additionally I have input the heading at the top of the data set, so this is now visible when my code is run in Python. This is visible in my below screenshot.
+I created a new file in m ‘Data’ folder in Visual Studio Code named ‘irisproject.csv’. I pasted Fisher’s Iris data set in here from the browser, and saved.
+ 
+ 
+ 
+ 
+It took me a few attempts to figure out how to complete this (hence the initial attempt ‘openfileproject.py), and I re-watched the ‘Formatting Output’ video from Moodle several times for guidance. I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video and this was the basis for my code.
+As shown in the above screenshot, when I run the code this divides the 5 columns and prints each column individually.
+This makes the 5 attributes clearer to the viewer.
+In order to run the Python code I have written in Visual Studio Code, you must select ‘1 powershell’ and type: python openfileproject2.py, then it return on the keyboard.
+ 
+While observing the result I noticed that the final attribute (Class) had been grouped in Python as follows;
+All of the ‘Iris-setosa’ were grouped together first, then all the ‘Iris-versicolor’ were grouped together secondly, and all ‘Iris-virginica’ were grouped together finally. They were not mixed together. This gave the results printed to the terminal a nicely organized effect. 
+I then decided to copy and paste the result printed to the terminal in VS Code to a notepad on my desktop. 
+When I tried to complete this initially using the mouse it would not work. I pressed ‘Ctrl’ and ‘A’ on the keyboard and then the system allowed me to copy using the mouse. I pasted it to the Notepad.
+I then decided to copy and paste everything from the notepad into VS Code to see what numbers would appear beside each piece of data. I created a new file (File > new File), and pasted the data into it.
+I noticed that all of the numerical values had transferred to VS Code in the way I’d anticipated them to, i.e. they were all in line one after the other with no spaces in between them, meaning the numerical order beside them was correct, and I could use this to tell me how many measurements in total had been recorded.
+ 
+We can see from this that there were 600 values measured and recorded.
+These 600 values are made up in equal part of the first 4 attributes; Petal Length, Petal Width, Sepal Length, Sepal Width.
+The result I had not anticipated was the way the fifth attribute appeared after I had pasted the data from notepad into VS Code – there was a space between each value of the ‘Class’. This was the only attribute not recorded in numerical value, but by letters.
+I was unsure why this had happened, but then I noticed that this was the format in which the result was printed to the terminal when I ran my code. 
+I was able to delete these additional spaces by placing the cursor on the space and hitting the backspace key on the keyboard. Having completed this for all the unwanted spaces VS Code showed that there were 750 records in total, as expected.
+ 
+I noticed that ‘Iris-setosa’ ran from 601 to 650.
+‘Iris-versicolor’ ran from 651 to 700, and ‘Iris-virginica’ ran from 701 to 750.
+It’s clear to see from this that there are 3 classes of Iris recorded in Fisher’s Iris data set – i.e. 3 species of iris.
+We can also establish that there are 50 Iris-setosa, 50 Iris-versicolor and 50 Iris-virginica.
+ 
+
+
+
 ## Visual Studio Code
 
 I used [Visual Studio Code](https://code.visualstudio.com/) to run Python. Prior to commencing this module I had never heard of Visual Studio Code, so I conducted some research on it. According to [Wikipedia]( https://en.wikipedia.org/wiki/Visual_Studio_Code); Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is also customizable, so users can change the editor's theme, keyboard shortcuts, and preferences. It is free and open-source, although the official download is under a proprietary license.
