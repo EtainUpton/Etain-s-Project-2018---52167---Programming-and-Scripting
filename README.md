@@ -384,6 +384,10 @@ I noticed that ‘Iris-setosa’ ran from 601 to 650.
 It’s clear to see from this that there are 3 classes of Iris recorded in Fisher’s Iris data set – i.e. 3 species of iris.
 We can also establish that there are 50 Iris-setosa, 50 Iris-versicolor and 50 Iris-virginica.
  
+I knew how to upload pictures to a README in GitHub from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/):
+![Screenshot from Mastering Markdown showing how to upload an image to README](Mastering Markdown screenshot - how to upload images to README.PNG - Photos)
+ 
+but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance.
 
 
 
