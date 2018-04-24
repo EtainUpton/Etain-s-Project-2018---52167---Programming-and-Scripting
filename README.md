@@ -386,7 +386,7 @@ We can also establish that there are 50 Iris-setosa, 50 Iris-versicolor and 50 I
  
 I knew how to upload pictures to a README in GitHub from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/):
 
-![Screenshot from Mastering Markdown showing how to upload an image to README](Mastering Markdown screenshot - how to upload images to README.png)
+![Screenshot from Mastering Markdown showing how to upload an image to README](MasteringMarkdownScreenshot.jpg)
  
 but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance.
 
