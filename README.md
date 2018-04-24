@@ -388,7 +388,7 @@ I knew how to upload pictures to a README in GitHub from [Mastering Markdown](ht
 
 ![Screenshot from Mastering Markdown showing how to upload an image to README](MasteringMarkdownScreenshot.jpg)
  
-but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as above in terms of ![](), however you insert the name of the image saved in your repository inside the brackets().
+but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as above in terms of ![](), however you insert the name of the image saved in your repository inside the brackets(). I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. 
 
 
 
