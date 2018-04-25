@@ -364,7 +364,9 @@ I created a new file in m ‘Data’ folder in Visual Studio Code named ‘irisp
 It took me a few attempts to figure out how to complete this (hence the initial attempt ‘openfileproject.py), and I re-watched the ‘Formatting Output’ video from Moodle several times for guidance. I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video and this was the basis for my code.
 As shown in the above screenshot, when I run the code this divides the 5 columns and prints each column individually.
 This makes the 5 attributes clearer to the viewer.
-In order to run the Python code I have written in Visual Studio Code, you must select ‘1 powershell’ and type: python openfileproject2.py, then it return on the keyboard.
+In order to run the Python code I have written in Visual Studio Code, you must click on View > Integrated Terminal. 
+
+Select ‘1 powershell’ and type: python openfileproject2.py, then it return on the keyboard.
  
 While observing the result I noticed that the final attribute (Class) had been grouped in Python as follows;
 All of the ‘Iris-setosa’ were grouped together first, then all the ‘Iris-versicolor’ were grouped together secondly, and all ‘Iris-virginica’ were grouped together finally. They were not mixed together. This gave the results printed to the terminal a nicely organized effect. 
