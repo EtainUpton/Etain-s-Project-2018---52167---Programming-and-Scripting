@@ -334,6 +334,8 @@ It was my intention to assess the results in Python, and then investigate how to
 
 I used ___________to complete this graph. This may be more digestible to an audience who is unfamiliar with Python, and I personally think it simplifies the information.
 
+![Graph which displays the Class of Iris and shows that there are 3 equal amounts of each class](Chart of class.jpg)
+
 I watched the ‘Project 2018 overview’ video supplied on Moodle by Dr Ian McLoughlin which gave me some good pointers and a starting point for this project.
 
 Explain to the reader of the project how Data Analytics can be useful in this regard, and how Python is a good tool for this purpose. (Sell Python to them).
