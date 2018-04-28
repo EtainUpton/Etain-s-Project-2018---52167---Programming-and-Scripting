@@ -353,7 +353,7 @@ I learned this from https://guides.github.com/features/mastering-markdown/ and h
 I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
 
 When we download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/datasets/Iris originally, the data set looks like this;
-
+![Screenshot of how the data set looked originally when downloaded](Fisher'sIrisDataSet-SeparatedByCommasAlone.jpg)
 We can see from this snippet that there is no separation between each measurement, there is simply a comma between each different measurement. Additionally there are no headings. When the code I have written in Python is run, the various measurements are separated based on which
 Of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class).
 as opposed to being separated by commas alone. 
