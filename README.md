@@ -354,7 +354,7 @@ When I download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/dat
 
 We can see from this snippet that there is no clear separation between each measurement, merely a comma between each of the different measurements. This is not visually appealing to an audience – it is difficult for the human eye to distinguish each individual measurement as they are so closely bunched together. When the code I have written in [Python]( https://www.python.org/) is run, the various measurements are separated based on which of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class), as opposed to being separated by commas alone. This makes the separation of each individual measurements clearer and easier to read and absorb for the viewer. This is visible in my below screenshot.
 
-## Steps taken by me to generate the result: 
+## Steps I took to generate the result: 
 I created a new file in my ‘Data’ folder in Visual Studio Code named ‘irisproject.csv’. I pasted Fisher’s Iris data set (which I obtained from UCI Machine Learning Repository – Iris Data Set – Data Folder) in here from the browser, and saved.
 
 It took me a few attempts to figure out how to proceed (hence the initial attempt ‘openfileproject.py shown in the below 2 screenshots), and I re-watched the ‘Formatting Output’ video from Moodle several times for guidance.
@@ -363,19 +363,34 @@ It took me a few attempts to figure out how to proceed (hence the initial attemp
 I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video, and this was the basis for my code. I composed the following code;
 
 with open("data/iris.csv") as f:
+
+    
     for line in f:
+        
         print(line.split(',')[0])
+
 with open("data/iris.csv") as f:
+    
     for line in f:
+        
         print(line.split(',')[1])
+
 with open("data/iris.csv") as f:
+    
     for line in f:
+        
         print(line.split(',')[2])
+
 with open("data/iris.csv") as f:
+    
     for line in f:
+        
         print(line.split(',')[3])
+
 with open("data/iris.csv") as f:
+    
     for line in f:
+        
         print(line.split(',')[4])
 
 Screenshot of the code in Visual Studio Code;
