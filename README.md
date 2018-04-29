@@ -344,6 +344,9 @@ I watched the ‘Project 2018 overview’ video supplied on Moodle by Dr Ian McL
 While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from https://guides.github.com/features/mastering-markdown/ and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this here;
 I knew how to upload pictures to a README in GitHub from Mastering Markdown 
 https://guides.github.com/features/mastering-markdown/
+
+![Screenshot](HowToUploadPictureScreenshotFromMasteringMarkdown.jpg)
+
 but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as above in terms of ![](), however you insert the name of the image saved in your repository inside the brackets(). I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
 
 I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
@@ -362,6 +365,8 @@ I created a new file in my ‘Data’ folder in Visual Studio Code named ‘iris
 It took me a few attempts to figure out how to proceed (hence the initial attempt ‘openfileproject.py shown in the below 2 screenshots), and I re-watched the ‘Formatting Output’ video from Moodle several times for guidance.
 
 ![Attempt 1](InitialAttempt.jpg)
+
+![Screenshot](Pg.9.jpg)
 
 I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video, and this was the basis for my code. I composed the following code;
 
