@@ -351,6 +351,7 @@ I also learned that it is possible to hyperlink [Python]( https://www.python.org
 When I download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/datasets/Iris originally, the data set looked like this (please note this is a snippet of the result, as the entire result is substantially large);
 
 ![Screenshot of how the data set looked originally when downloaded](Fisher'sIrisDataSet-SeparatedByCommasAlone.jpg)
+
 We can see from this snippet that there is no clear separation between each measurement, merely a comma between each of the different measurements. This is not visually appealing to an audience – it is difficult for the human eye to distinguish each individual measurement as they are so closely bunched together. When the code I have written in [Python]( https://www.python.org/) is run, the various measurements are separated based on which of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class), as opposed to being separated by commas alone. This makes the separation of each individual measurements clearer and easier to read and absorb for the viewer. This is visible in my below screenshot.
 
 ## Steps taken by me to generate the result: 
