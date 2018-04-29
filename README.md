@@ -466,56 +466,55 @@ My code was rated 10/10 as shown in the below screenshot, which I was very pleas
 # List of References;
 *	Wikipedia - (https://en.wikipedia.org/wiki/Iris_flower_data_set)
 *	Biology Dictionary (https://biologydictionary.net/sepal/)
-* Case Study: IRIS Classification (http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html)
+*   Case Study: IRIS Classification (http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html)
 *	UC Irvine Machine Learning Repository. Iris data set. (http://archive.ics.uci.edu/ml/datasets/Iris)
-* Wikipedia README page (https://en.wikipedia.org/wiki/README)
+*   Wikipedia README page (https://en.wikipedia.org/wiki/README)
 *	Markdown Cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 *	Markdown Wikipedia (https://en.wikipedia.org/wiki/Markdown)
 *	Mastering Markdown (https://guides.github.com/features/mastering-markdown/)
 *	Python Website (https://www.python.org/)
 *	The Old Farmer’s Almanac https://www.almanac.com/plant/irises
 *	The Python Tutorial https://docs.python.org/3/tutorial/
-* Visual Studio Code https://code.visualstudio.com/
+*   Visual Studio Code https://code.visualstudio.com/
 
-# Etain’s Project 2018 -52167 - Programming and Scripting - Brainstorming Notes/ Rough Plans
+
+
+### Etain’s Project 2018 -52167 - Programming and Scripting - Brainstorming Notes/ Rough Plans
 https://github.com/EtainUpton/Etain-s-Project-2018---52167---Programming-and-Scripting
 
 Write a summary of my findings in the form of README.
-Then write a code in python (ideas at 2mins in video ‘Project 2018 Overview’)
-I have already downloaded the script into python – started in an exercise – develop this slightly (e.g. some of the suggestions made in 2mins) – upload this as part of project
 Include tables/graphics
 Include a pic of Fischer
-Include : I assessed the results in Python and then investigated how to display this information in a more visually appealing way to an audience. I used ___________to complete this graph. This may be more digestible to an audience who is unfamiliar with Python, and I personally think it simplifies the information.
+Include : I assessed the results in Python and then investigated how to display this information in a more visually appealing way to an audience. 
 I watched the ‘Project 2018 overview’ video supplied on Moodle by Dr Ian McLoughlin which gave me some good pointers and a starting point for this project.
-Explain to the reader of the project how Data Analytics can be useful in this regard, and how Python is a good tool for this purpose. (Sell Python to them).
 The project should contain a GitHub repository with a README.md file and a Python script.
 The README should contain a summary of the dataset and your investigations into it. It should also clearly document how to run the Python code you used to investigate the data set, and what that code does. Furthermore, it should list all references used in completing the project.
-As long as I have 1 Python script this is sufficient – explain in the README how to run this script & what it’s supposed to do.
-Discuss the route other researchers have taken when investigating this dataset and my own opinions on this.
 Create the new repository & submit the link ASAP. (Completed)
 
 25% Research Investigation of problem and possible solutions. 
+
 25% Development Clear analysis and well-written supporting code. 
+
 25% Consistency Good planning and pragmatic attitude to work. 
+
 25% Documentation Detailed descriptions and explanations.
-Upload one submission per day to GitHub to spread it out. (Consistency)
 
 Watch the README file video. – don’t upload a word document, upload a text file to the readme.
 I researched how to correctly upload information to a README as I want to submit my research and findings in text format.
  
 I realised while watching the ‘READMEs’ video supplied by Dr Ian McLoughlin on Moodle that I had forgotten to include a gitignore in my repository for this project. However, I had already submitted the Project URL via Moodle, so I could not amend this.
 I realised while researching READMEs for this project that I had incorrectly submitted my previous repositories while completing the weekly exercises – I know for one README I inserted a Microsoft Word Document.
-While researching READMEs I wondered how I would upload an image (e.g. a chart) to GitHub.
-I learned this from https://guides.github.com/features/mastering-markdown/.
-Possible to hyperlink [Python]( https://www.python.org/)
-Images:
-![A picture of my chart](link of image)
-In repository – upload files 
-![A picture of my chart](name of image saved in your repository)
 
 Having completed the weekly tasks for this module, I learned that I needed to make regular commits to GitHub for this project, in order to display the gradual and continuous work I am undertaking as I complete it.
+
 I need to add comments to all of my source code saying how it works and how I figured it out.
-•  None of the Python files have the ".py" extension. This is a basic requirement with an easy fix.
-•  Exercise 4 doesn't work, and Exercise 5 requires iris.csv to be included in your repository, which it isn't.
-•  The other two Python files do work, which makes me wonder why they work and the others don't - it's inconsistent.
-•  You need a much better README file, with reference to any sources you used.
+
+Issues from my weekly tasks which I have tried to rectify for this project:
+
+*  None of the Python files had the ".py" extension. 
+
+*  I needed a much better README file, with reference to any sources I used.
+
+I researched how to correctly upload information to a README as I want to submit my research and findings in text format.
+
+![Screenshot](ScreenshotForRoughNotes.jpg)
