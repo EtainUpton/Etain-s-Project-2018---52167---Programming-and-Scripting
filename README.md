@@ -360,7 +360,8 @@ I created a new file in my ‘Data’ folder in Visual Studio Code named ‘iris
 ![Screenshot of the new file I created in my Data folder in VS Code 'irisproject.csv'](irisproject.jpg)
 
 It took me a few attempts to figure out how to proceed (hence the initial attempt ‘openfileproject.py shown in the below 2 screenshots), and I re-watched the ‘Formatting Output’ video from Moodle several times for guidance.
- 
+
+![Attempt 1](InitialAttempt.jpg)
 
 I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video, and this was the basis for my code. I composed the following code;
 
