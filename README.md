@@ -404,6 +404,10 @@ When I ran the code in the above screenshot this divided the 5 columns where the
 
 ## Result:
 
+![Screenshot of result](result.jpg)
+
+![Screenshot of result](result2.jpg)
+
 This makes the 5 attributes clearer to the viewer.
 In order to run the [Python]( https://www.python.org/) code I have written in [Visual Studio Code]( https://code.visualstudio.com/), you must click on 'View' > 'Integrated Terminal';
 
