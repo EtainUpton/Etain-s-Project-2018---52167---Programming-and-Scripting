@@ -393,7 +393,9 @@ with open("data/iris.csv") as f:
         
         print(line.split(',')[4])
 
-Screenshot of the code in Visual Studio Code;
+Screenshot of my code in Visual Studio Code;
+
+![Screenshot of my code in VS Code](ScreenshotOfEtain'sPythonCodeInVSCode.jpg)
 
 When I ran the code in the above screenshot this divided the 5 columns where the comma was positioned (i.e. divided each measurement of each attribute) and printed each measurement in it’s own individual column.
 
