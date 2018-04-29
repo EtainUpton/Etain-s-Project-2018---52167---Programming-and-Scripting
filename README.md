@@ -446,7 +446,7 @@ It’s clear to see from this that there are 3 classes of Iris recorded in Fishe
 We can also establish that there are 50 Iris-setosa, 50 Iris-versicolor and 50 Iris-virginica.
 The first attribute (petal length) is displayed in a column by itself. We can copy and paste this result from the terminal into a ‘New File’ in Visual Studio Code. We know that the attributes were measured for 50 plants, so the top 50 results are the petal length measurements. From merely glancing at this column we can get an idea as to what the general measurements are in centimetres for each attribute. This would be a useful technique to employ from a Data Analytics perspective for an audience to quickly estimate the average results in a data set. In this example, we can see clearly from Python that the petal length measurements are mainly within a 4cm – 5.8cm range, with the largest recorded measurement for a petal length being 5.8cm.
 
-![Screenshot](PetalLengthMeasurements .jpg)
+![Screenshot](PetalLengthMeasurements.jpg)
 
 ![Screenshot](Top50results.jpg)
 
