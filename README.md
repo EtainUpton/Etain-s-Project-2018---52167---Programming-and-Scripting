@@ -3,7 +3,7 @@ Etain’s Project 2018 - 52167 - Programming and Scripting
 
 # Research on the subject of Fisher’s Iris data set
 This project is based on Fisher’s Iris data set. I intend to lay out a summary of my findings from my research on background information about this topic.
-According to Wikipedia (https://en.wikipedia.org/wiki/Iris_flower_data_set) 'the data set is composed of 50 samples from 3 species of Iris, which is a flower.' 
+According to [Wikipedia - Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set); '...the data set is composed of 50 samples from 3 species of Iris, which is a flower.' 
 
 ![Image of an Iris Flower](https://upload.wikimedia.org/wikipedia/commons/4/49/Iris_germanica_%28Purple_bearded_Iris%29%2C_Wakehurst_Place%2C_UK_-_Diliff.jpg)
 
@@ -21,13 +21,13 @@ As per Wikipedia, the dataset contains a set of 150 records under 5 attributes;
 
 Note that the first 4 attributes were recorded as a result of the measurements in centimetres, whereas the 5th feature, ‘Class’, is a classification of the species of Iris.
 
-According to [‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html) 'the data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor)'. 
+According to [‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html) ; '...the data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor)'. 
 Note: The three different species of Iris recorded in the data set are displayed clearly in the results of code I have written. 
-According to ‘Case Study: IRIS Classification’ (http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html) 'Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. The fifth column is the species of the flower observed'. 
+According to [‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html); 'Four features were measured from each sample: the length and the width of the sepals and petals, in centimetres. The fifth column is the species of the flower observed'. 
 
 Although familiar with what a petal was, I was unsure what exactly a sepal was, so I conducted some research into this. 'A sepal is a leaf-shaped structure found in flowering plants. It is found on the outermost part of the flower, and like a petal, a sepal is considered to be a modified leaf', ([Biology Dictionary](https://biologydictionary.net/sepal/)). 
 
-Fisher’s Iris data set proved significant, as it became a typical test case for many statistical classification techniques in machine learning (https://en.wikipedia.org/wiki/Iris_flower_data_set). 'It is a very famous and widely used dataset by everyone trying to learn machine learning and statistics', ([‘Case Study: IRIS Classification’](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html)).
+Fisher’s Iris data set proved significant, as it became a typical test case for many statistical classification techniques in machine learning [Wikipedia - Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set). 'It is a very famous and widely used dataset by everyone trying to learn machine learning and statistics', ([Case Study: IRIS Classification](http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html)).
 
 I was unsure what machine learning was, so I looked into this. 'Machine learning is a field of computer science which uses statistical techniques to give computer systems the ability to ‘learn’ with data, without being explicitly programmed', ([Wikipedia – Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)).
 
@@ -339,15 +339,12 @@ It was my intention to assess the results recorded in the data set in [Python](h
 
 I researched how to correctly upload information to a README, as I needed to submit my research and findings in text format. I realised while watching the ‘READMEs’ video supplied by Dr Ian McLoughlin on Moodle, that I had forgotten to include a gitignore in my repository for this project. However, I had already submitted the Project URL via Moodle, so I could not amend this. Furthermore, I realised while researching READMEs for this project that I had incorrectly submitted my previous repositories while completing the weekly exercises – an example of this was inserting a Microsoft Word Document for one README, instead of following the correct procedure which is to insert the information to the README in text format. I took this as a learning experience, and tried to demonstrate that I now understand how to correctly submit information to repositories in GitHub READMEs while completing this project.
 
-I watched the ‘Project 2018 overview’ video supplied on Moodle by Dr Ian McLoughlin which gave me some good pointers and a starting point for this project.
-
-While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from https://guides.github.com/features/mastering-markdown/ and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this here;
-I knew how to upload pictures to a README in GitHub from Mastering Markdown 
-https://guides.github.com/features/mastering-markdown/
+While researching READMEs I wondered how I would correctly upload an image (e.g. a chart) to GitHub. I learned this from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and have included some images in this README. I will delve into the initial challenges I faced while trying to successfully complete this;
+I knew how to upload pictures to a README in GitHub from [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). The below image is supplied on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) and I employed this technique to initially upload images from the web to README;
 
 ![Screenshot](HowToUploadPictureScreenshotFromMasteringMarkdown.jpg)
 
-but I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as above in terms of ![](), however you insert the name of the image saved in your repository inside the brackets(). I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
+However, I was unsure how to correctly upload screenshots from my own machine to show the work I had completed in Visual Studio Code. I remembered covering this in the ‘READMEs’ video on Moodle, so I referred back to this for guidance. I learned that you must follow the same formula as shown in the above image in terms of the exclamation point at the beginning of where you wish to insert an image, square brackets containing a description of what the image represents, and regular brackets with the name of the image from the web, however you insert the name of the image which you have saved in your GitHub repository from your own machine inside the regular brackets brackets. I initially tried to complete this with a PNG file, but when this did not work I saved the image on my desktop again as a JPG file and was able to upload it to the repository and successfully upload it to the README. I also realised through trial and error that there can be no spaces in the name of the image.
 
 I also learned that it is possible to hyperlink [Python]( https://www.python.org/).
 
@@ -355,10 +352,10 @@ When I download Fischer’s Iris Data Set from http://archive.ics.uci.edu/ml/dat
 
 ![Screenshot of how the data set looked originally when downloaded](Fisher'sIrisDataSet-SeparatedByCommasAlone.jpg)
 
-We can see from this snippet that there is no clear separation between each measurement, merely a comma between each of the different measurements. This is not visually appealing to an audience – it is difficult for the human eye to distinguish each individual measurement as they are so closely bunched together. When the code I have written in [Python]( https://www.python.org/) is run, the various measurements are separated based on which of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class), as opposed to being separated by commas alone. This makes the separation of each individual measurements clearer and easier to read and absorb for the viewer. This is visible in my below screenshot.
+We can see from this snippet that there is no clear separation between each measurement, merely a comma between each of the different measurements. This is not visually appealing to an audience – it is difficult for the human eye to distinguish each individual measurement as they are so closely bunched together. When the code I have written in [Python]( https://www.python.org/) is run, the various measurements are separated based on which of the 5 attributes they represent (i.e. Petal Length, Petal Width, Sepal Length, Sepal Width or Class), as opposed to being separated by commas alone. This makes the separation of each individual measurement clearer and easier to read and absorb for the viewer. This is visible in my below screenshot.
 
 ## Steps I took to generate the result: 
-I created a new file in my ‘Data’ folder in Visual Studio Code named ‘irisproject.csv’. I pasted Fisher’s Iris data set (which I obtained from UCI Machine Learning Repository – Iris Data Set – Data Folder) in here from the browser, and saved.
+I created a new file in my ‘Data’ folder in Visual Studio Code named ‘irisproject.csv’. I pasted Fisher’s Iris data set (which I obtained from [UCI Machine Learning Repository – Iris Data Set – Data Folder](http://archive.ics.uci.edu/ml/datasets/Iris) in here from the browser, and saved.
 
 ![Screenshot of the new file I created in my Data folder in VS Code 'irisproject.csv'](irisproject.jpg)
 
@@ -368,7 +365,7 @@ It took me a few attempts to figure out how to proceed (hence the initial attemp
 
 ![Screenshot](Pg.9.jpg)
 
-I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video, and this was the basis for my code. I composed the following code;
+I combined the processes I learned from this video with the processes I learned from the ‘Splitting Strings’ video, and this was the basis for my code. I figured that if I combined the ‘curly braces’ method from the ‘Formatting Output’ video WITHOUT the curly braces, with the ‘with open("data/iris.csv") as f:’ method which I took from the ‘Splitting strings’ video, I could obtain the result I was searching for. It took me some time to play around with the code but eventually I settled on the code which gave me the result I wanted. I composed the following code;
 
 with open("data/iris.csv") as f:
 
@@ -457,9 +454,10 @@ Based on the results of my Python code, I used PowerPoint to compose the below g
 I always used [Visual Studio Code]( https://code.visualstudio.com/) to run [Python]( https://www.python.org/) while completing this module. Prior to commencing this module I had never heard of Visual Studio Code, so I conducted some research on it. According to [Wikipedia]( https://en.wikipedia.org/wiki/Visual_Studio_Code); Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring. It is also customizable, so users can change the editor's theme, keyboard shortcuts, and preferences. It is free and open-source, although the official download is under a proprietary license.
 I wondered what a ‘source code editor’ was, which I also researched on [Wikipedia]( https://en.wikipedia.org/wiki/Source_code_editor); A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
 
-Conclusion:
-We can see from the above example how Data Analytics can be useful in establishing the value of the information collected in data sets, and how Python is a good tool for this purpose.
+## Conclusion:
+We can see from the above example how Data Analytics can be useful in establishing the value of the information collected in data sets, and how [Python](https://www.python.org/) is a good tool for this purpose.
 My code was rated 10/10 as shown in the below screenshot, which I was very pleased with!
+[Python](https://www.python.org/) can be used to represent Fisher’s Iris data set in a more visually appealing way to an audience, and ensures the receiver of the information can absorb it in a quicker and more digestible fashion than they would if they had nothing to observe other than the raw, unedited data set.
 
 ![Screenshot](MyCodeHasBeenRatedAt10OutOf10.jpg)
 
